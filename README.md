@@ -27,7 +27,7 @@
 ## 📦 安装依赖
 ```bash
 # 克隆项目
-git clone <repository-url>
+git clone https://github.com/EvanZhangcn/style_transfer.git
 cd style_transfer
 
 # 安装依赖
